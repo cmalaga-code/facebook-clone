@@ -1,4 +1,4 @@
-# Facebook clone 🎶🎙️🎧
+# Social-media 🎧
 
 ### Environments 💻
 1. development
